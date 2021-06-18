@@ -1,6 +1,6 @@
 {
   "name": "styled-components-basic",
-  "homepage": "https://github.io/ashokcpg/styled-components-multiple-theme-switcher",
+  "homepage": ".",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
