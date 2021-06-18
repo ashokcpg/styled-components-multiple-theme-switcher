@@ -1,17 +1,17 @@
 export const darkTheme = {
   backgroundColor: "#333333",
-  textColor: "#000000",
-  primary: "#77ccdd"
+  secondBg: "#77ccdd",
+  textColor: "#000000"
 }
 
 export const lightTheme = {
   backgroundColor: "#e0e0e0",
-  textColor: "#ffffff",
-  primary: "#55aacc"
+  secondBg: "#55aacc",
+  textColor: "#ffffff"
 }
 
-export const partyTheme = {
-  backgroundColor: "#eeff00",
-  textColor: "#ff88cc",
-  primary: "#aa00ee"
-}
+// export const partyTheme = {
+//   backgroundColor: "#eeff00",
+//   secondBg: "#aa00ee",
+//   textColor: "#ff88cc"
+// }
