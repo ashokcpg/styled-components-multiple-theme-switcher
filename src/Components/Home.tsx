@@ -29,7 +29,7 @@ export function Home() {
                 <P2>
                     Click on the Button Below to Toggle Theme
                     </P2> 
-        <Button onClick={() => changeTheme()}>Toggle</Button>
+        <Button onClick={() => changeTheme()}>Toggle Mode</Button>
         </Wrapper>
         </ThemeProvider>
     );
